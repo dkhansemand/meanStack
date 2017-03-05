@@ -1,5 +1,6 @@
 # meanStack
 MEAN Stack application
+#
 MongoDB is required!
 # Installation
 npm install
