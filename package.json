@@ -1,0 +1,24 @@
+{
+  "name": "meanauth",
+  "version": "1.0.0",
+  "description": "MEAN stack auth app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "dependencies": {
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "jsonwebtoken": "*",
+    "express": "*",
+    "cors": "*",
+    "body-parser": "*"
+  },
+  "author": "Andreas Hansson",
+  "license": "MIT"
+}
